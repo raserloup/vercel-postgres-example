@@ -1,4 +1,4 @@
- import bcrypt from 'bcrypt';
+/* import bcrypt from 'bcrypt';
  import { db } from '@vercel/postgres';
  import { invoices, customers, revenue, users } from '../lib/placeholder-data';
 
@@ -120,3 +120,4 @@ export async function GET() {
      return Response.json({ error }, { status: 500 });
    }
 }
+*/
